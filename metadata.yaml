@@ -1,0 +1,29 @@
+_repo: Nayttamolta-ja-katsomosta_73067
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivijärvi, Erkki
+    alias: Kivijarvi, Erkki
+    birthdate: 1882
+    deathdate: 1942
+    gutenberg_agent_id: '46143'
+    url: http://www.gutenberg.org/2009/agents/46143
+    wikipedia: https://fi.wikipedia.org/wiki/Erkki_Kivij%C3%A4rvi
+description: ''
+gutenberg_issued: '2024-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73067'
+language: fi
+pgterms:marc905: 20160406021844kivijrvi
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Juhan Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Ahjo, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Näyttämöltä ja katsomosta
+url: http://www.gutenberg.org/ebooks/73067
